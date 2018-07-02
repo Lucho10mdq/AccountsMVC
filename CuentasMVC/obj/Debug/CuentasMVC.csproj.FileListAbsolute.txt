@@ -1,0 +1,16 @@
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\bin\Debug\CuentasMVC.exe.config
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\bin\Debug\CuentasMVC.exe
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\bin\Debug\CuentasMVC.pdb
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\bin\Debug\Controlador.dll
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\bin\Debug\Modelo.dll
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\bin\Debug\Controlador.pdb
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\bin\Debug\Modelo.pdb
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\obj\Debug\CuentasMVC.csprojResolveAssemblyReference.cache
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\obj\Debug\CuentasMVC.Form1.resources
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\obj\Debug\CuentasMVC.Properties.Resources.resources
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\obj\Debug\CuentasMVC.csproj.GenerateResource.Cache
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\obj\Debug\CuentasMVC.exe
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\obj\Debug\CuentasMVC.pdb
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\obj\Debug\CuentasMVC.AgregarCuenta.resources
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\obj\Debug\CuentasMVC.Bienvenido.resources
+C:\Users\SER\Documents\Practica Profesional\CuentasMVC\CuentasMVC\obj\Debug\CuentasMVC.ListadoDeCuentas.resources
